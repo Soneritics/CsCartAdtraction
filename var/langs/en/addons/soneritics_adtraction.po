@@ -1,0 +1,13 @@
+msgid ""
+msgstr "Project-Id-Version: addon\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en_EN\n"
+"PO-Revision-Date: 2023-08-17 21:00+0200\n"
+
+msgctxt "Addons::name::soneritics_adtraction"
+msgid "Soneritics Adtraction"
+msgstr "Soneritics Adtraction"
+
+msgctxt "Addons::description::soneritics_adtraction"
+msgid "Adtraction tracking pixel"
+msgstr "Adtraction tracking pixel"
